@@ -1,24 +1,15 @@
-# hire-taxi-app
+# HIRE_A_TAXI_APP
 
-## Project setup
-```
-npm install
-```
+Test task for the vuejs frontent position.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Getting started
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1. Clone repository
+2. npm install
+3. make develop or npm run develop
 
-### Lints and fixes files
-```
-npm run lint
-```
+## What can be improved in the future
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- use vue3 with apollo composition api and typescript
+- make more universal components with slots
+- customize the vuetify if necessary
